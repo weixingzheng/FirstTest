@@ -166,4 +166,7 @@ function aa(){
 		  async: false
 		}).responseText;
 }
+function bb(){
+	window.print();
+}
 </script>
